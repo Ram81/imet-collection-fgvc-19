@@ -52,5 +52,5 @@ Shortlisted threshold from the pruned search space was the one with max [F2 scor
 ## Results
 
 All individual models had a F2 score in range 0.603-0.615.
-Our final solution had a F2 score of 0.621 on private leaderboard and 0.625 on public leaderboard.
+Our final solution had a F2 score of 0.621 and [74th rank private leaderboard](https://www.kaggle.com/c/imet-2019-fgvc6/leaderboard), 0.625 on [public leaderboard](https://www.kaggle.com/c/imet-2019-fgvc6/leaderboard).
 
